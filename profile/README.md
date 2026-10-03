@@ -1,3 +1,5 @@
+<p align="center"><strong>English</strong> · <a href="https://github.com/TsinjoOps/.github/blob/main/profile/README.fr.md">Français</a></p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/tsinjoops-logo-dark.png">
@@ -49,4 +51,4 @@ Our symbol combines a structured **T** with the colors of **air, fire, water and
 
 ---
 
-<sub>**Current stage:** Product design and proof-of-concept work. Service availability, support commitments and commercial terms will be announced only after validation. TsinjoOps is independent of the upstream open-source projects named here; mentioning them does not imply an endorsement or partnership.</sub>
+<sub>**Current stage:** Product design and proof-of-concept work. Service availability, support commitments and commercial terms will be announced only after validation. TsinjoOps is independent of upstream open-source projects; its open-source approach does not imply endorsement or partnership.</sub>
