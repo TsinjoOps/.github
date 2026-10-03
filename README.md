@@ -2,8 +2,10 @@
 
 This repository maintains the public GitHub organization profile and its visual assets.
 
-- [Organization presentation](profile/README.md)
-- [Brand guidelines and logo assets](profile/BRAND.md)
+- [Organization presentation — English](profile/README.md)
+- [Présentation de l'organisation — Français](profile/README.fr.md)
+- [Brand guidelines — English](profile/BRAND.md)
+- [Charte graphique — Français](profile/BRAND.fr.md)
 
 The GitHub organization profile is rendered from `profile/README.md` once this repository's visibility is **Public**.
 

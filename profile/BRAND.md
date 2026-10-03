@@ -1,5 +1,8 @@
 # TsinjoOps — visual identity
 
+**Language / Langue :** English · [Français](https://github.com/TsinjoOps/.github/blob/main/profile/BRAND.fr.md)
+
+
 > **Status:** V3 “Elemental Focus” — current visual direction; distinctiveness, recall, and trademark clearance still require validation.
 
 The logo is a central geometric **T** framed by four open corners representing the forces of nature. Keep it simple, legible and recognizable across interfaces, documents, and web surfaces.
